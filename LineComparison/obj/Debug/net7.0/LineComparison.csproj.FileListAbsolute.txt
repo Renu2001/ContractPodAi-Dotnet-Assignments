@@ -12,3 +12,4 @@ D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\refint\LineCompa
 D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.pdb
 D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.genruntimeconfig.cache
 D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\ref\LineComparison.dll
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.sourcelink.json
