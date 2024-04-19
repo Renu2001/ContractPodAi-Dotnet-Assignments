@@ -1,0 +1,14 @@
+D:\BridgeLabz Dotnet Assignment\LineComparison\bin\Debug\net7.0\LineComparison.exe
+D:\BridgeLabz Dotnet Assignment\LineComparison\bin\Debug\net7.0\LineComparison.deps.json
+D:\BridgeLabz Dotnet Assignment\LineComparison\bin\Debug\net7.0\LineComparison.runtimeconfig.json
+D:\BridgeLabz Dotnet Assignment\LineComparison\bin\Debug\net7.0\LineComparison.dll
+D:\BridgeLabz Dotnet Assignment\LineComparison\bin\Debug\net7.0\LineComparison.pdb
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.AssemblyInfoInputs.cache
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.AssemblyInfo.cs
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.dll
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\refint\LineComparison.dll
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.pdb
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\LineComparison.genruntimeconfig.cache
+D:\BridgeLabz Dotnet Assignment\LineComparison\obj\Debug\net7.0\ref\LineComparison.dll
