@@ -23,21 +23,35 @@
             Console.WriteLine("Welcome to Line Comparison Computation Program on Master Branch");
         }
 
-        
-        public void LengthOfLine()
+        public double LengthOfLine()
         {
             double length = Math.Sqrt(Math.Pow((this.x2 - this.x1), 2) + Math.Pow((this.y2 - this.y1), 2));
 
             Console.WriteLine($"Length of a line : {length}");
+            return length;
             
+        }
+
+        public void CheckEquality(double line1, double line2)
+        {
+            if(line1.Equals(line2))
+            {
+                Console.WriteLine("Both lines are Equal");
+            }
+            else
+            {
+                Console.WriteLine("Both lines are Not Equal");
+            }
         }
         static void Main(string[] args)
         {
             Program var1 = new Program();
-            var1.LengthOfLine();
+            double line1 = var1.LengthOfLine();
 
             Program var2 = new Program ();
-            var2.LengthOfLine();
+            double line2 = var2.LengthOfLine();
+
+            var2.CheckEquality(line1, line2);
            
         }
     }
