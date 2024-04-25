@@ -1,6 +1,6 @@
 ﻿namespace LineComparison
 {
-    internal class Program : LineComparison
+    internal class Program 
     {
         
         static void Main(string[] args)

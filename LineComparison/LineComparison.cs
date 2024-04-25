@@ -32,7 +32,6 @@ namespace LineComparison
         public double LengthOfLine()
         {
             double length = Math.Sqrt(Math.Pow((this.x2 - this.x1), 2) + Math.Pow((this.y2 - this.y1), 2));
-
             Console.WriteLine($"Length of a line : {length}");
             return length;
 
